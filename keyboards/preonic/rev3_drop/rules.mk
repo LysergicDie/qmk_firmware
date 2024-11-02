@@ -16,6 +16,7 @@ NKRO_ENABLE = yes           # Enable N-Key Rollover
 BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = yes       # Enable keyboard RGB underglow
 AUDIO_ENABLE = yes          # Audio output
+MIDI_ENABLE = yes           # Enable MIDI
 WS2812_DRIVER = pwm
 CUSTOM_MATRIX = yes
 ENCODER_ENABLE = yes
